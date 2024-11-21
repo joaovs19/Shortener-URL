@@ -1,4 +1,5 @@
 # Shortener-URL  
+
 Um encurtador de URLs totalmente **serverless** construído com tecnologias da **AWS** e **Java 17**. Esta aplicação permite criar, armazenar e acessar URLs encurtadas, incluindo a funcionalidade de expiração de links.  
 
 ## 🛠️ Tecnologias Utilizadas  
@@ -44,6 +45,10 @@ Um encurtador de URLs totalmente **serverless** construído com tecnologias da *
      - Caso contrário, retorna uma mensagem de "Link Expirado".  
 
 ---
+
+## 🔗 Link da API  
+Acesse a API do projeto no seguinte endereço:  
+**[URL da API](https://api-seuprojeto.com](https://nez82ioq87.execute-api.eu-north-1.amazonaws.com))**  
 
 ## 🔧 Configuração do Projeto  
 
