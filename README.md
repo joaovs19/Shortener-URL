@@ -1,4 +1,9 @@
 # Shortener-URL  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d70f185-e589-4972-81a9-e90b47247160" alt="Design sem nome" width="500" height="300">
+</div>
+
+
 
 Um encurtador de URLs totalmente **serverless** construído com tecnologias da **AWS** e **Java 17**. Esta aplicação permite criar, armazenar e acessar URLs encurtadas, incluindo a funcionalidade de expiração de links.  
 
